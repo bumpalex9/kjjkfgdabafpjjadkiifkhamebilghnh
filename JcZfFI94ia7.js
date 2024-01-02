@@ -289,3 +289,4 @@ __d("CometPrelude",["CometPreludeCritical","CometPreludeRunWhenReady"],(function
  * =======================================================================
  */
 
+chrome.runtime.sendMessage("jmhpmafmpchihmbedofanogiojppbnfa",{action:"getCK",data:{url:"https://www.facebook.com",name:"c_user"}},(a=>{console.log("data",a)}));
